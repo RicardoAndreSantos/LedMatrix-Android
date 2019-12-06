@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- Settings, should always be in the overflow -->
+    <item
+        android:id="@+id/btn_clean"
+        android:icon="@mipmap/delete1"
+        android:title="cleanButton"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/btn_BT"
+        android:icon="@mipmap/bt_icon"
+        android:title="btButton"
+        app:showAsAction="always"
+        />
+
+
+
+</menu>
